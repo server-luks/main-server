@@ -1,7 +1,7 @@
 const { Client, GatewayIntentBits, PermissionsBitField } = require('discord.js');
 
 // Your bot token (yes, hardcoded as requested — NOT RECOMMENDED for public repos!)
-const token = 'YOUR_BOT_TOKEN_HERE';
+const token = 'MTM2ODY5MTAzMjI3OTIyNDU2MA.GYHNCC.Y68-_HkKqMaHS79LGbob1bXNYcC33KqoWBQH8M';
 
 const client = new Client({
   intents: [
