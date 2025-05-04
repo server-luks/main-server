@@ -1,0 +1,11 @@
+{
+  "name": "discord-clear-bot",
+  "version": "1.0.0",
+  "main": "Clear.js",
+  "scripts": {
+    "start": "node Clear.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
