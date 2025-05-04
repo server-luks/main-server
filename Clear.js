@@ -1,7 +1,7 @@
 const { Client, GatewayIntentBits, PermissionsBitField } = require('discord.js');
 
 // Hardcode your token directly here
-const token = 'MTM2ODY5MTAzMjI3OTIyNDU2MA.GYHNCC.Y68-_HkKqMaHS79LGbob1bXNYcC33KqoWBQH8M';
+const token = 'MTM2ODY5MTAzMjI3OTIyNDU2MA.GLlItP.H8WkU3YODf0yXzuPOcN0CM8YesCCWSa6seOB_U';
 
 const client = new Client({
   intents: [
